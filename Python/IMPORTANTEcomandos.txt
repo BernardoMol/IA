@@ -1,0 +1,11 @@
+
+python -m venv nomedoambiente (para criar o ambiente virtual)
+
+touch .gitignore (para criar o arquivo ".gitignore" pelo bash --> tentei criar na mao o txt mas ele ignorou...estranho...aí tive q usar o comando mesmo)
+(SE UMA PASTA ESTIVER VAZIA ELEA NÃO SERÁ ADICIONADA NAO GIT, MESMO QUE O IGNORE NÃO ESTEJA IGNORANDO ELA)
+
+echo "NomeDaPasta/" >> .gitignore (adiciona o que tem que ser ignorado no .ignore --> Como ele so funcionou com comando, é bom deixar esse comando aqui tb)
+
+source Scripts/activate (ativa o ambiente via bash)
+
+pip freeze (lista todas as dependencias associadas ao ambiente)

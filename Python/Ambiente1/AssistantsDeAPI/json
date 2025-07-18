@@ -1,0 +1,111 @@
+{
+  "data": [
+    {
+      "id": "msg_P9t7h9UGrOb9eSaRQwtPPR50",
+      "assistant_id": "asst_IY3Mz9SC4WEwZEuGrtTC5Wtf",
+      "attachments": [],
+      "completed_at": null,
+      "content": [
+        {
+          "type": "image_file",
+          "image_file": {
+            "file_id": "file-J8hXaE8L6jB7Db11te9kpW",
+            "detail": null
+          }
+        },
+        {
+          "type": "text",
+          "text": {
+            "annotations": [],
+            "value": "O rating médio das vendas do supermercado é de aproximadamente \\(6.97\\).\n\nAlém disso, o gráfico de pizza acima ilustra a distribuição das vendas por método de pagamento. Cada setor do gráfico representa a porcentagem de vendas realizadas através de cada método de pagamento (e-wallet, cartão de crédito, etc.)."
+          }
+        }
+      ],
+      "created_at": 1740596652,
+      "incomplete_at": null,
+      "incomplete_details": null,
+      "metadata": {},
+      "object": "thread.message",
+      "role": "assistant",
+      "run_id": "run_1kd3qnofWqhiubJxSD3tOD3x",
+      "status": null,
+      "thread_id": "thread_5Tpl27WwL4c1elgbr4pzevNB"
+    },
+    {
+      "id": "msg_ODFmurA43EyfVldwKdKzirVd",
+      "assistant_id": "asst_IY3Mz9SC4WEwZEuGrtTC5Wtf",
+      "attachments": [],
+      "completed_at": null,
+      "content": [
+        {
+          "type": "text",
+          "text": {
+            "annotations": [],
+            "value": "O arquivo CSV contém informações sobre vendas em um supermercado, incluindo, entre outras colunas, as seguintes:\n\n- `Rating`: Avaliação da venda.\n- `Payment`: Método de pagamento.\n\nVamos agora calcular o rating médio das vendas e, em seguida, criar um gráfico de pizza para mostrar a distribuição das vendas por método de pagamento."
+          }
+        }
+      ],
+      "created_at": 1740596641,
+      "incomplete_at": null,
+      "incomplete_details": null,
+      "metadata": {},
+      "object": "thread.message",
+      "role": "assistant",
+      "run_id": "run_1kd3qnofWqhiubJxSD3tOD3x",
+      "status": null,
+      "thread_id": "thread_5Tpl27WwL4c1elgbr4pzevNB"
+    },
+    {
+      "id": "msg_Gpnxl57AvlVVxshB8Jw7WclQ",
+      "assistant_id": "asst_IY3Mz9SC4WEwZEuGrtTC5Wtf",
+      "attachments": [],
+      "completed_at": null,
+      "content": [
+        {
+          "type": "text",
+          "text": {
+            "annotations": [],
+            "value": "Primeiro, vou abrir e analisar o arquivo CSV para entender sua estrutura e identificar as colunas relevantes para calcular o rating médio e o percentual de vendas por meio de pagamento. Vamos começar."
+          }
+        }
+      ],
+      "created_at": 1740596635,
+      "incomplete_at": null,
+      "incomplete_details": null,
+      "metadata": {},
+      "object": "thread.message",
+      "role": "assistant",
+      "run_id": "run_1kd3qnofWqhiubJxSD3tOD3x",
+      "status": null,
+      "thread_id": "thread_5Tpl27WwL4c1elgbr4pzevNB"
+    },
+    {
+      "id": "msg_E4uZf9uDnELAp3YKpLpu7ZSv",
+      "assistant_id": null,
+      "attachments": [],
+      "completed_at": null,
+      "content": [
+        {
+          "type": "text",
+          "text": {
+            "annotations": [],
+            "value": "Qual é o rating médio das vendas do supermercado? Utilize o arquivo em .csv. Gere tambem um grafico de pizza com o percentual de vendas por meio de pagamentoo"
+          }
+        }
+      ],
+      "created_at": 1740596631,
+      "incomplete_at": null,
+      "incomplete_details": null,
+      "metadata": {},
+      "object": "thread.message",
+      "role": "user",
+      "run_id": null,
+      "status": null,
+      "thread_id": "thread_5Tpl27WwL4c1elgbr4pzevNB"
+    }
+  ],
+  "object": "list",
+  "first_id": "msg_P9t7h9UGrOb9eSaRQwtPPR50",
+  "last_id": "msg_E4uZf9uDnELAp3YKpLpu7ZSv",
+  "has_more": false
+}

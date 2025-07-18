@@ -1,0 +1,290 @@
+
+    
+[
+    {
+        "pergunta": "Qual a formula da área de um círculo?",
+        "resposta": "A área de um círculo é π vezes o raio ao quadrado (A = πr²)",
+        "área": "Matemática"
+    },
+    {
+        "pergunta": "O que é um verbo?",
+        "resposta": "Verbo é a classe de palavras que expressa ação, estado ou fenômeno da natureza.",
+        "área": "Português"
+    },
+    {
+        "pergunta": "Qual é a fórmula da velocidade média?",
+        "resposta": "A velocidade média é calculada como a razão entre a variação da posição e o tempo decorrido: Vm = Δs / Δt.",
+        "área": "Física"
+    },
+    {
+        "pergunta": "Qual é a função das mitocôndrias?",
+        "resposta": "As mitocôndrias são responsáveis pela produção de energia na célula através da respiração celular.",
+        "área": "Biologia"
+    },
+    {
+        "pergunta": "O que é um átomo?",
+        "resposta": "O átomo é a menor unidade fundamental da matéria, composto por prótons, nêutrons e elétrons.",
+        "área": "Química"
+    },
+    {
+        "pergunta": "Quem foi Dom Pedro I?",
+        "resposta": "Dom Pedro I foi o primeiro imperador do Brasil e proclamou a Independência em 1822.",
+        "área": "História"
+    },
+    {
+        "pergunta": "O que é um PIB?",
+        "resposta": "O PIB (Produto Interno Bruto) é a soma de todos os bens e serviços produzidos em um país durante um período.",
+        "área": "Economia"
+    },
+    {
+        "pergunta": "O que significa um algoritmo?",
+        "resposta": "Um algoritmo é uma sequência de passos finitos e bem definidos para resolver um problema.",
+        "área": "Computação"
+    },
+    {
+        "pergunta": "Qual é o valor de sen(90°)?",
+        "resposta": "O valor de sen(90°) é 1.",
+        "área": "Matemática"
+    },
+    {
+        "pergunta": "O que é uma metáfora?",
+        "resposta": "Metáfora é uma figura de linguagem que estabelece uma comparação implícita entre dois elementos diferentes.",
+        "área": "Literatura"
+    },
+    {
+        "pergunta": "O que é um ecossistema?",
+        "resposta": "Um ecossistema é um conjunto de organismos vivos que interagem entre si e com o ambiente em que vivem.",
+        "área": "Ciências"
+    },
+    {
+        "pergunta": "O que é uma oração subordinada?",
+        "resposta": "É uma oração que depende sintaticamente de outra para ter sentido completo.",
+        "área": "Português"
+    },
+    {
+        "pergunta": "Qual é a terceira lei de Newton?",
+        "resposta": "A toda ação há sempre uma reação de mesma intensidade e direção, porém em sentido oposto.",
+        "área": "Física"
+    },
+    {
+        "pergunta": "Qual é a função do DNA?",
+        "resposta": "O DNA contém as informações genéticas dos organismos e coordena a síntese de proteínas.",
+        "área": "Biologia"
+    },
+    {
+        "pergunta": "O que é uma ligação iônica?",
+        "resposta": "É um tipo de ligação química onde há transferência de elétrons entre átomos.",
+        "área": "Química"
+    },
+    {
+        "pergunta": "O que foi a Revolução Industrial?",
+        "resposta": "Foi um período de grandes mudanças tecnológicas e econômicas iniciado no século XVIII.",
+        "área": "História"
+    },
+    {
+        "pergunta": "O que é inflação?",
+        "resposta": "Inflação é o aumento generalizado dos preços de bens e serviços ao longo do tempo.",
+        "área": "Economia"
+    },
+    {
+        "pergunta": "O que é um loop em programação?",
+        "resposta": "Um loop é uma estrutura de controle que repete um bloco de código enquanto uma condição for verdadeira.",
+        "área": "Computação"
+    },
+    {
+        "pergunta": "O que é um número primo?",
+        "resposta": "Um número primo é um número natural maior que 1 que só é divisível por 1 e por ele mesmo.",
+        "área": "Matemática"
+    },
+    {
+        "pergunta": "O que é uma hipérbole?",
+        "resposta": "Hipérbole é uma figura de linguagem que exagera uma ideia para enfatizá-la.",
+        "área": "Literatura"
+    },
+    {
+        "pergunta": "O que é biodiversidade?",
+        "resposta": "Biodiversidade é a variedade de seres vivos existentes em um determinado ecossistema.",
+        "área": "Ciências"
+    },
+    {
+        "pergunta": "O que é um adjetivo?",
+        "resposta": "Adjetivo é a classe de palavras que caracteriza ou qualifica um substantivo.",
+        "área": "Português"
+    },
+    {
+        "pergunta": "O que é energia cinética?",
+        "resposta": "É a energia associada ao movimento de um corpo.",
+        "área": "Física"
+    },
+    {
+        "pergunta": "O que é uma célula procarionte?",
+        "resposta": "É uma célula sem núcleo organizado, como as bactérias.",
+        "área": "Biologia"
+    },
+    {
+        "pergunta": "O que é um ácido?",
+        "resposta": "É uma substância que libera íons H+ em solução aquosa.",
+        "área": "Química"
+    },
+    {
+        "pergunta": "Quem descobriu o Brasil?",
+        "resposta": "Pedro Álvares Cabral descobriu o Brasil em 1500.",
+        "área": "História"
+    },
+    {
+        "pergunta": "O que é PIB per capita?",
+        "resposta": "É o PIB dividido pela população de um país.",
+        "área": "Economia"
+    },
+    {
+        "pergunta": "O que é uma variável em programação?",
+        "resposta": "É um espaço na memória onde armazenamos um valor que pode ser alterado.",
+        "área": "Computação"
+    },
+    {
+        "pergunta": "Qual é a raiz quadrada de 64?",
+        "resposta": "A raiz quadrada de 64 é 8.",
+        "área": "Matemática"
+    },
+    {
+        "pergunta": "O que é uma metáfora?",
+        "resposta": "Metáfora é uma figura de linguagem que estabelece uma comparação implícita entre dois elementos diferentes.",
+        "área": "Literatura"
+    },
+    {
+        "pergunta": "O que é um bioma?",
+        "resposta": "Bioma é um conjunto de ecossistemas com características semelhantes.",
+        "área": "Ciências"
+    },
+    {
+        "pergunta": "O que é um pronome?",
+        "resposta": "Pronome é a classe de palavras que substitui ou acompanha um substantivo.",
+        "área": "Português"
+    },
+    {
+        "pergunta": "O que é aceleração?",
+        "resposta": "É a variação da velocidade de um corpo em um intervalo de tempo.",
+        "área": "Física"
+    },
+    {
+        "pergunta": "O que são os ribossomos?",
+        "resposta": "São organelas responsáveis pela síntese de proteínas.",
+        "área": "Biologia"
+    },
+    {
+        "pergunta": "O que é uma reação de combustão?",
+        "resposta": "É uma reação química entre um combustível e o oxigênio, liberando energia.",
+        "área": "Química"
+    },
+    {
+        "pergunta": "Quem foi Napoleão Bonaparte?",
+        "resposta": "Napoleão foi um líder militar francês que governou no início do século XIX.",
+        "área": "História"
+    },
+    {
+        "pergunta": "O que é um oligopólio?",
+        "resposta": "É um mercado dominado por poucas empresas que controlam a oferta de um produto.",
+        "área": "Economia"
+    },
+    {
+        "pergunta": "O que é um teorema?",
+        "resposta": "Um teorema é uma proposição matemática que pode ser demonstrada como verdadeira com base em axiomas e outras proposições já demonstradas.",
+        "área": "Matemática"
+    },
+    {
+        "pergunta": "O que é uma função do primeiro grau?",
+        "resposta": "É uma função matemática da forma f(x) = ax + b, onde a e b são números reais e a ≠ 0.",
+        "área": "Matemática"
+    },
+    {
+        "pergunta": "O que é um substantivo?",
+        "resposta": "Substantivo é a classe de palavras que nomeia seres, objetos, lugares, sentimentos e ideias.",
+        "área": "Português"
+    },
+    {
+        "pergunta": "O que é um advérbio?",
+        "resposta": "Advérbio é a classe de palavras que modifica um verbo, adjetivo ou outro advérbio, indicando circunstâncias como tempo, modo e lugar.",
+        "área": "Português"
+    },
+    {
+        "pergunta": "Qual é a equação de Torricelli?",
+        "resposta": "A equação de Torricelli é utilizada para calcular a velocidade de um corpo sem a necessidade do tempo: v² = v0² + 2aΔs.",
+        "área": "Física"
+    },
+    {
+        "pergunta": "O que é a fotossíntese?",
+        "resposta": "A fotossíntese é o processo pelo qual as plantas produzem seu próprio alimento a partir da luz solar, água e dióxido de carbono.",
+        "área": "Biologia"
+    },
+    {
+        "pergunta": "O que é um elemento químico?",
+        "resposta": "Elemento químico é uma substância pura formada por átomos com o mesmo número atômico.",
+        "área": "Química"
+    },
+    {
+        "pergunta": "Quem foi Karl Marx?",
+        "resposta": "Karl Marx foi um filósofo, sociólogo e economista alemão, conhecido por desenvolver o materialismo histórico e a teoria marxista.",
+        "área": "História"
+    },
+    {
+        "pergunta": "O que é um mercado de concorrência perfeita?",
+        "resposta": "É um mercado onde há muitos compradores e vendedores, sem influência sobre o preço do produto.",
+        "área": "Economia"
+    },
+    {
+        "pergunta": "O que é um vetor em programação?",
+        "resposta": "Um vetor é uma estrutura de dados que armazena elementos do mesmo tipo em posições consecutivas de memória.",
+        "área": "Computação"
+    },
+    {
+        "pergunta": "O que é uma matriz?",
+        "resposta": "Uma matriz é uma tabela retangular de números organizada em linhas e colunas.",
+        "área": "Matemática"
+    },
+    {
+        "pergunta": "O que é um polígono regular?",
+        "resposta": "É um polígono que possui todos os lados e ângulos internos iguais.",
+        "área": "Matemática"
+    },
+    {
+        "pergunta": "O que é um artigo definido?",
+        "resposta": "É um tipo de artigo que determina um substantivo de maneira específica: o, a, os, as.",
+        "área": "Português"
+    },
+    {
+        "pergunta": "O que é uma preposição?",
+        "resposta": "Preposição é a palavra que liga dois termos de uma oração, estabelecendo relações entre eles.",
+        "área": "Português"
+    },
+    {
+        "pergunta": "O que é força gravitacional?",
+        "resposta": "É a força de atração entre dois corpos devido à sua massa.",
+        "área": "Física"
+    },
+    {
+        "pergunta": "O que é uma célula eucarionte?",
+        "resposta": "É uma célula que possui núcleo organizado e compartimentalização interna.",
+        "área": "Biologia"
+    },
+    {
+        "pergunta": "O que é a tabela periódica?",
+        "resposta": "É uma organização dos elementos químicos baseada em suas propriedades e estrutura atômica.",
+        "área": "Química"
+    },
+    {
+        "pergunta": "O que foi a Revolução Francesa?",
+        "resposta": "Foi um movimento revolucionário na França no final do século XVIII, que levou à queda da monarquia.",
+        "área": "História"
+    },
+    {
+        "pergunta": "O que é um imposto?",
+        "resposta": "Imposto é um tributo obrigatório cobrado pelo governo sobre bens, serviços e rendimentos.",
+        "área": "Economia"
+    },
+    {
+        "pergunta": "O que é um banco de dados?",
+        "resposta": "É uma coleção organizada de informações que podem ser acessadas e gerenciadas eletronicamente.",
+        "área": "Computação"
+    }
+]
+
